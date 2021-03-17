@@ -1,0 +1,51 @@
+body{
+vertical-align: middle;
+}
+
+h1,p, blockquote {
+    text-align: center;
+}
+
+.list-p{
+    text-align: left;
+    color: black;
+}
+
+h2{
+    text-align: center;
+    border: cadetblue;
+    border-style: double;
+}
+
+li{
+    list-style: circle;
+    color: darkcyan;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+.left{
+    margin: auto;
+    width: 25%;
+}
+
+.right{
+    width: 65%;
+}
+
+.col{
+    float: left;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 3%;
+}
+
+mark{
+    background: burlywood;
+}
+
